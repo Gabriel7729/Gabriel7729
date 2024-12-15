@@ -7,7 +7,7 @@ Softwar Developer Engineer
 As a proactive, dedicated, and responsible software developer, I am deeply committed to continuously advancing my technical skills and embracing cutting-edge technologies. My passion lies in designing and developing innovative web applications that address real-world challenges, striving to make a tangible impact through my work. With a strong foundation in both front-end and back-end development, I excel in creating seamless, user-friendly digital experiences that enhance user engagement and satisfaction.
 
 * 🌍  I'm based in Dominican Republic, Santo Domingo
-* 🖥️  See my portfolio at [IN PROGRESS](http://INPROGRESS)
+* 🖥️  See my portfolio at [GabrielDeLaRosaPortafolio](https://gabriel7729.github.io/my-portafolio/)
 * ✉️  You can contact me at [gabrieldelarosa2928@gmail.com](mailto:gabrieldelarosa2928@gmail.com)
 * 🧠  I'm learning React 19, Google Cloud Console, Docker
 
